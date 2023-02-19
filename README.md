@@ -26,4 +26,3 @@ You will need to link with the math library
 
 ### TODO
 - Implement SIMD
-- Implement general math like sin, cos, atan, pow, abs.
