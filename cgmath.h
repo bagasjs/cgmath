@@ -11,7 +11,7 @@
  * #define CGMATH_IMPLEMENTATION
  * #include "cgmath.h"
  * ```
- * For example your file will look like this:
+ * For example your implementation file will look like this:
  * ```c
  * #include <stdio.h>
  * #include <stdlib.h>
