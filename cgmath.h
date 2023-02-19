@@ -7,12 +7,12 @@
  * you include "cgmath.h" as an ordinary header file
  *
  * Do this to create an implementation:
- * ```
+ * ```c
  * #define CGMATH_IMPLEMENTATION
  * #include "cgmath.h"
  * ```
  * For example your file will look like this:
- * ```
+ * ```c
  * #include <stdio.h>
  * #include <stdlib.h>
  * #define CGMATH_IMPLEMENTATION
