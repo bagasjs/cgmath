@@ -23,3 +23,7 @@ For example your implementation file will look like this:
 - **Platform**
 If you are working on linux or other posix platform
 You will need to link with the math library
+
+### TODO
+- Implement SIMD
+- Implement general math like sin, cos, atan, pow, abs.
